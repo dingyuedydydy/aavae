@@ -1,4 +1,4 @@
-# ACVAE-PyTorch
+# AA-VAE-PyTorch
 PyTorch Code for the paper "Adversarial and Attentive Variational Sequential Recommendation: An Information Bottleneck Perspective". 
 
 Submitted to ICDE 2024.
